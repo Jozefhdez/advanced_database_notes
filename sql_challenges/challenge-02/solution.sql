@@ -32,3 +32,9 @@ SELECT * FROM buildings;
 SELECT DISTINCT building_name, role FROM buildings b
 LEFT JOIN employees e
 ON b.building_name = e.building;
+
+-- Interview question
+SELECT p.page_id FROM pages p
+LEFT JOIN page_likes pl
+ON p.page_id = pl.page_id
+WHERE pl.page_id IS NULL;

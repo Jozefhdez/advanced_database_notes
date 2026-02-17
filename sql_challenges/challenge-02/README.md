@@ -1,7 +1,7 @@
-# Lessons 6 and 7 https://sqlbolt.com/
+# Interview question and lessons 6, 7 from https://sqlbolt.com/
 
-## Problem
-Solve first 6 and 7 sections.
+## Problems
+Solve lessons 6, 7 and interview question.
 
 ## Solution
 You can find the solution at [solutions](solution.sql)
