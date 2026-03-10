@@ -1,4 +1,4 @@
--- SECTION 01
+-- SECTION 1
 
 -- 1. Find the title of each film
 SELECT title FROM movies;
@@ -16,7 +16,7 @@ SELECT title, year FROM movies;
 SELECT * FROM movies;
 
 
--- SECTION 02
+-- SECTION 2
 
 -- 1. Find the movie with a row id of 6
 SELECT * FROM movies
@@ -36,7 +36,7 @@ ORDER BY year
 LIMIT 5;
 
 
--- SECTION 03
+-- SECTION 3
 
 -- 1. Find all the Toy Story movies
 SELECT * FROM movies
@@ -55,7 +55,7 @@ SELECT * FROM movies
 WHERE title LIKE "WALL-%";
 
 
--- SECTION 04
+-- SECTION 4
 
 -- 1. List all directors of Pixar movies (alphabetically), without duplicates
 SELECT distinct director FROM movies
@@ -77,7 +77,7 @@ ORDER BY title
 LIMIT 5 OFFSET 5;
 
 
--- SECTION 05
+-- SECTION 5
 
 -- 1. List all the Canadian cities and their populations
 SELECT city, population FROM north_american_cities
