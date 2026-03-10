@@ -1,4 +1,4 @@
--- Analytic Functions
+-- Analytic Functions.
 
 -- 1. Return the count and average weight of bricks for each shape
 select b.*,

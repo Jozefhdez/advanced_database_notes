@@ -1,4 +1,4 @@
-# Notes
+# Notes.
 
 Aggregation functions work great in certain cases, but some times we lose information due to them.
 
