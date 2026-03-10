@@ -1,4 +1,4 @@
--- SECTION 06
+-- SECTION 6
 
 -- 1. Find the domestic and international sales for each movie
 SELECT * FROM movies AS m
@@ -17,7 +17,7 @@ JOIN boxoffice AS b
 ON m.id = b.movie_id
 ORDER BY rating DESC;
 
--- SECTION 07
+-- SECTION 7
 
 -- 1. Find the list of all buildings that have employees
 SELECT DISTINCT building_name
