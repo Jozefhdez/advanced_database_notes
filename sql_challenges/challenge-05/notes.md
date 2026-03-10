@@ -1,4 +1,4 @@
-# Notes
+# Notes.
 
 Set operations combine results from multiple queries.
 

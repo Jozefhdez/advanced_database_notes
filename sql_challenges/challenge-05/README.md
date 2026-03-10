@@ -4,4 +4,4 @@
 Solve Union, Minus, and Intersect: Databases for Developers.
 
 ## Solution
-You can find the solution at [solutions](solution.sql)
+You can find the solution at [solutions](solution.sql).

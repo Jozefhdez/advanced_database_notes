@@ -1,4 +1,4 @@
--- Return a list of all the colours in the two tables. Each colour must only appear once
+-- Return a list of all the colours in the two tables. Each colour must only appear once.
 
 select distinct * from (
     select colour from my_brick_collection
