@@ -1,4 +1,4 @@
-# Notes
+# Notes.
 
 - COUNT(): number of rows
 - SUM(): total value

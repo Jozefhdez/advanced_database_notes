@@ -1,6 +1,6 @@
 -- SECTION 10
 
--- 1. Find the longest time that an employee has been at the studio
+-- 1. Find the longest time that an employee has been at the studio.
 SELECT MAX(years_employed) FROM employees;
 
 -- 2. For each role, find the average number of years employed by employees in that role
