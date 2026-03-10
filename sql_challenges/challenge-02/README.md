@@ -4,4 +4,4 @@
 Solve lessons 6, 7 and interview question.
 
 ## Solution
-You can find the solution at [solutions](solution.sql)
+You can find the solution at [solutions](solution.sql).

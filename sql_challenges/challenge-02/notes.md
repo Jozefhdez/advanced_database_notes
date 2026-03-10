@@ -1,5 +1,5 @@
-# LEFT JOIN
+# LEFT JOIN.
 - All from the left table even inner
 
-# INNER JOIN
+# INNER JOIN.
 - Records in both tables
