@@ -1,0 +1,5 @@
+# Notes
+
+1. **SQL handles the logic, Python handles the visuals**. Aggregation, filtering, and date calculations stay in the database.
+2. **`pd.read_sql()` connects Oracle and pandas**, a single call loads query results directly into a DataFrame.
+3. **KPIs depend on clear rules** Metrics always have edge cases, so define and handle them in SQL.
